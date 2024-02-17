@@ -1,0 +1,39 @@
+/* UserCard.css */
+
+.avatar-container {
+  max-width: 70%;
+  padding: 20px;
+  display: flex;
+  background-color: #6644e120;
+  margin: 25px auto;
+  border-radius: 10px;
+}
+
+.avatar {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+}
+
+.content {
+  margin-left: 50px;
+}
+.user-details {
+  padding: 20px;
+}
+
+.user-card-title {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.user-card-info {
+  margin-bottom: 5px;
+  font-size: 1rem;
+  color: #666;
+}
+
+.user-card-info strong {
+  margin-right: 5px;
+  color: #c9b5b5;
+}
